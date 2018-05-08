@@ -4,7 +4,7 @@
   "description": "The code sample repository for the RxJS in Action book",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node --harmony index.js"
   },
   "bin": {
     "rxjs-in-action": "./bin/rxjs-in-action"

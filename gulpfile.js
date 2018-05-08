@@ -4,7 +4,7 @@
  *  @author Paul Daniels
  *  @author Luis Atencio
  */
-//'use strict';
+'use strict';
 
 // Gulp
 const gulp = require('gulp');
